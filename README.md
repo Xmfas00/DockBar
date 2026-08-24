@@ -33,17 +33,13 @@ HyperOS 2 (Android 14), версия лаунчера 5.39.40.11704-09172004
 **Telegram:** [xmfas_utb](https://t.me/xmfas_utb)
 
 P.S. Многие могут задаться вопросом: зачем это приложение, если это есть в HyperCeiler? Да, фон к док бару есть в HyperCeiler, однако только для Xiaomi/Redmi. Заранее говорю: я делал это для тех, кто тоже сидит на HyperOS 2. Может, в последних версиях HyperCeiler и для Poco сделали, хз)
+<sub> на лаунчеров от Xiaomi/Redmi тоже работает <sub>
 
 ---
 
 # DockBar (English)
 
 An LSPosed module that adds a blurred plate behind the dock icons — like on Xiaomi tablets.
-
-## Screenshots
-
-![Home screen](screenshots/1.png)
-![App](screenshots/2.png)
 
 ## Tested on
 
